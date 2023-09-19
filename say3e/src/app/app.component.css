@@ -1,0 +1,14 @@
+.home{
+    background-color: rgb(217,217,217);
+    height: 600px !important;
+    box-sizing: border-box;
+}
+
+
+.pic{
+    height: 590px !important;
+}
+.pic img{
+    height: 100%;
+    width: 100%;
+}

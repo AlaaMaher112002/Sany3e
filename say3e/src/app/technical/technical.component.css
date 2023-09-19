@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.home{
+    background-color: rgb(217,217,217);
+    height: 600px !important;
+    box-sizing: border-box;
+}
+
+i{
+ border: 1px solid gray;
+
+}
+
+h4{
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight:400;
+    line-height: 44px;
+    letter-spacing: -0.09em;
+    text-align: left;
+ 
+
+}
+
+.send{
+    background-color: rgb(70,130,169);
+    color: white;
+    border: none;
+}
+.form-control{
+    background-color: transparent;
+    border: 1px solid rgb(186, 183, 183) !important;
+}
+label{
+    font-family: 'Poppins',sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    
+}
+
+.pic{
+    height: 590px !important;
+}
+.pic img{
+    height: 100%;
+    width: 100%;
+}
