@@ -42,6 +42,15 @@ label{
     
 }
 
+
+
+.home{
+    background-color: rgb(217,217,217);
+    height: 600px !important;
+    box-sizing: border-box;
+}
+
+
 .pic{
     height: 590px !important;
 }

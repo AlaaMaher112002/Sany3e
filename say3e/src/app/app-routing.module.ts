@@ -5,7 +5,7 @@ import { SendComponent } from './send/send.component';
 
 
 const routes: Routes = [
-  {path:'',redirectTo:'technical',pathMatch:'full'},
+{path:'',redirectTo:'technical',pathMatch:'full'},
 {path:'technical',component:TechnicalComponent},
 {path:'send',component:SendComponent},
 ];
