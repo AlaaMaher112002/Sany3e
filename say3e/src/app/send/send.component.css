@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
+
+body{
+  background-color: rgb(145,200,228);
+
+}
+
+
 .contents{
     margin: auto;
     display:inline-block;
@@ -16,8 +23,8 @@ h2{
     line-height: 44px;
     letter-spacing: -0.09em;
     text-align: left;
-    
- 
+
+
 }
 
 p{

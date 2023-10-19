@@ -19,7 +19,12 @@ h4{
     line-height: 44px;
     letter-spacing: -0.09em;
     text-align: left;
- 
+
+
+}
+
+body{
+  background-color: rgb(145,200,228);
 
 }
 
@@ -39,7 +44,7 @@ label{
     line-height: 30px;
     letter-spacing: -0.05em;
     text-align: left;
-    
+
 }
 
 

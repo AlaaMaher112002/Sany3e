@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TechnicalComponent } from './technical/technical.component';
 import { SendComponent } from './send/send.component';
+import { CommunityComponent } from './community/community.component';
 
 
 @NgModule({
@@ -12,6 +13,7 @@ import { SendComponent } from './send/send.component';
     AppComponent,
     TechnicalComponent,
     SendComponent,
+    CommunityComponent,
   
   ],
   imports: [
